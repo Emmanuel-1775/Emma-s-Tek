@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color:red;
+  font-size:35px;
+}
+h2{
+  color:orange;
+  font-size:30px;
+}
+h5{
+  color:blue;
+  text-decoration:underline;
+}
+#FAST{
+  color:green;
+}    
